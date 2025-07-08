@@ -1,4 +1,4 @@
-# 📝 Todo List CLI Application (C++)
+# 📝 Todo List CLI Application (C++) 
 
 A simple command-line Todo List application written in C++. It allows you to manage tasks by adding, displaying, marking them as completed, and removing them — all from your terminal.
 
